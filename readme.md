@@ -5,8 +5,8 @@ QEMU. No C standard library calls were used, other than for debugging purposes a
 are commented out.
 
 
-A test driver file "myDriver.c" allows the user to draw repeating 1px wide line rectangles
-that alternate colors every 7 iterations. The rectangles continue to get smaller
+A test driver file "myDriver.c" allows the user to draw shapes based on keyboard input.
+User can draw crosshairs or repeating 1px wide line rectangles that alternate colors every 7 iterations. The rectangles continue to get smaller
 until they reach the center of the screen which has been totally filled.
 
 No C standard library calls were made in the driver program.

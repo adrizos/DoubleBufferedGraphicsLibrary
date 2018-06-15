@@ -9,4 +9,6 @@ A test driver file "myDriver.c" allows the user to draw repeating 1px wide line 
 that alternate colors every 7 iterations. The rectangles continue to get smaller
 until they reach the center of the screen which has been totally filled.
 
-No C standard library calls were made in the driver program. 
+No C standard library calls were made in the driver program.
+
+![Output Preview](output.gf)

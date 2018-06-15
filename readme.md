@@ -11,4 +11,4 @@ until they reach the center of the screen which has been totally filled.
 
 No C standard library calls were made in the driver program.
 
-![Output Preview](output.gf)
+![Output Preview](/output.gif)

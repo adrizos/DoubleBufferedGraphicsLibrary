@@ -3,13 +3,13 @@ Alex Drizos
 Cs1550
 Project1
 myDriver.c
-Dependencies: graphics.h library.c 
+Dependencies: graphics.h library.c
 
 This program illustrates another use of the required methods in the graphics
 library, library.c file and associated graphics.h header file.
 
 Instructions:
-User may enter 'd' to draw a diagonal line across the screen making an "X"
+User may enter 'd' to draw a diagonal line across the entire screen making an "X"
 
 User may enter 's' to draw repeating 1 pixel wide square lines around the entire
 screen that loops and draws consecutive inner circles until screen is filled.
